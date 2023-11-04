@@ -22,8 +22,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [](https://www.frontendmentor.io/solutions/qr-code-solution-pure-html-ozAMvMo8dc)
-- Live Site URL: [](https://front-mentor-qr-code-challenge.vercel.app/)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/qr-code-solution-pure-html-ozAMvMo8dc)
+- Live Site URL: [Vercel](https://front-mentor-qr-code-challenge.vercel.app/)
 
 ## My process
 
